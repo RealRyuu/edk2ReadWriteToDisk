@@ -1,0 +1,3 @@
+select vdisk file="C:\Users\luki8\Documents\dysk1.vhd"
+detach vdisk
+exit
